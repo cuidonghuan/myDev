@@ -8,7 +8,7 @@
     active-text-color="#ffd04b"
     router>
     <el-menu-item index="home">Home</el-menu-item>
-    <el-menu-item index="ops">运维中心</el-menu-item>
+    <el-menu-item index="/ops/status">运维中心</el-menu-item>
     <el-menu-item index="api">接口中心</el-menu-item>
     <el-menu-item index="git">GitLab</el-menu-item>
     <el-menu-item index="wiki">Wiki</el-menu-item>
